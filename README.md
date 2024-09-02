@@ -1,1 +1,1 @@
-# CodeYourFuture Bootcamp Project 1: Google Clone
+# CodeYourFuture Bootcamp Project 2: Google Clone
